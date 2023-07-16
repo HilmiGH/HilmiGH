@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @HilmiGH
+<h1 align="center">Hi 👋, I'm Hilmi</h1>
+<h3 align="center">A passionate frontend developer from Indonesia</h3>
 - 👀 I’m interested in AI, Software Development, and Game Development
 - 🌱 I’m currently majoring Information Systems at Institut Teknologi Sepuluh Nopember (ITS) in Indonesia
 - 💞️ I’m looking to collaborate on any projects about AI, Software Development or Game Development
