@@ -1,10 +1,13 @@
 <h1 align="center">Hi 👋, I'm Hilmi</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 <br>
-<h3 align="left">🌱 I’m currently majoring in Information Systems at Institut Teknologi Sepuluh Nopember (ITS) in Indonesia</h3>
-<h3 align="left">🔭 I’m currently working on **ISE 2023 Website**</h3> 
-<h3 align="left">👯 I’m looking to collaborate on **any projects, mainly AI, Game Dev, or Software Development Projects**</h3> 
-<h3 align="left">📫 How to reach me **hilmigh03@gmail.com**</h3>
+- 🌱 I’m currently majoring in Information Systems at Institut Teknologi Sepuluh Nopember (ITS) in Indonesia
+<br>
+- 🔭 I’m currently working on **ISE 2023 Website**
+<br>
+- 👯 I’m looking to collaborate on **any projects, mainly AI, Game Dev, or Software Development Projects**
+<br>
+- 📫 How to reach me **hilmigh03@gmail.com**
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
