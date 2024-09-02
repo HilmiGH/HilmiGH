@@ -3,11 +3,11 @@
 <br>
 - 🌱 I’m currently majoring in Information Systems at Institut Teknologi Sepuluh Nopember (ITS) in Indonesia
 <br>
-- 🔭 I’m currently working on ISE 2023 Website
-<br>
 - 👯 I’m looking to collaborate on any projects, mainly AI, Game Dev, or Software Development Projects
 <br>
-- 📫 How to reach me hilmigh03@gmail.com
+- 🖥️ My portfolios are available for everyone to see at https://hilmi-portfolio-list-website.my.canva.site/
+<br>
+- 📫 feel free to contact me through: hilmigh03@gmail.com
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
